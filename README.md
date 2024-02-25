@@ -6,7 +6,7 @@ DAOs are the native companies of Web3, but there's a marked lack of "small busin
 
 **We need a bank for DAOs.**
 
-I'm starting that bank. It'll give out dead simple, fixed rate loans backed by whatever form of collateral that normal people actually have access to. It's a community bank for DAOs. And I'm going to build it this week, during ETH Denver 2024.
+I'm starting that bank. It'll give out dead simple, fixed rate loans either unsecured or backed by whatever form of collateral that normal people actually have access to. It's a community bank for DAOs. And I'm going to build it this week, during ETH Denver 2024.
 
 Want to learn more or help? For now, I'm just sharing the working doc with a small group. But I'd love to build this with everyone in the community. If you have a tip or a question, just [DM me](https://x.com/joshuaztan) or join [this TG group](https://t.me/+jqj7uPccAwVhMGUx) to stay in touch.
 
