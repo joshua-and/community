@@ -13,15 +13,10 @@ I'm starting that bank. It'll give out dead simple, fixed rate loans backed by w
 Want to learn more or help? [DM me](https://x.com/joshuaztan) or join [this TG group](https://t.me/+jqj7uPccAwVhMGUx) to stay in touch.
 
 Warmly,
+
 Josh
 
-[Joshua Tan](https://joshuatan.com/research)
-
-Co-founder, Metagov
-
-Lead, DAOstar
-
-Computer scientist @ Oxford
+[Joshua Tan](https://joshuatan.com/research), Metagov & Oxford
 
 ## Contributors and advisors
 - Nathan Schneider (CU Boulder)
