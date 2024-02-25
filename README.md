@@ -1,5 +1,3 @@
-# A Bank for DAOs
-
 Dear community,
 
 There's something missing in Web3. We've built all these complex financial widgets in DeFi. But for the vast majority of people, the most visible and trusted financial institution in the world is not a broker or an exchange or a hedge fund. It's a local bank.
