@@ -10,7 +10,7 @@ Banks serve small businesses, but where are all the small businesses in Web3? If
 
 I'm starting that bank. It'll give out dead simple, fixed rate loans backed by whatever form of collateral that normal people actually have access to. It's a community bank for DAOs. And I'm going to build it this week, during ETH Denver 2024.
 
-Want to learn more or help? [Email me](mailto:joshua.z.tan@gmail.com). Or join [this TG group](https://t.me/+jqj7uPccAwVhMGUx) to stay in touch.
+Want to learn more or help? [DM me](https://x.com/joshuaztan) or join [this TG group](https://t.me/+jqj7uPccAwVhMGUx) to stay in touch.
 
 Warmly,
 Josh
