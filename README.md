@@ -16,8 +16,14 @@ Warmly,
 Josh
 
 [Joshua Tan](https://joshuatan.com/research)
+
 Co-founder, Metagov
+
 Lead, DAOstar
+
 Computer scientist @ Oxford
 
-Contributors and advisors: Nathan Schneider (CU Boulder), Michael Zargham (BlockScience), more TBA
+## Contributors and advisors
+- Nathan Schneider (CU Boulder)
+- Michael Zargham (BlockScience)
+- more TBA
