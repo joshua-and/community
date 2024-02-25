@@ -2,9 +2,9 @@
 
 Dear community,
 
-There's something missing in Web3. We've built all this complex financial infrastructure in DeFi. But the most visible financial infrastructure in the world is not an exchange or a hedge fund. It's a local community bank.
+There's something missing in Web3. We've built all these complex financial widgets in DeFi. But for the vast majority of people, the most visible and trusted financial institution in the world is not a broker or an exchange or a hedge fund. It's a local bank.
 
-If we want Web3 to scale to the rest of society, then we need to support more mom-and-pop DAOs. We need to help normal people launch small businesses like restaurants, shops, event management companies, and consultancies.
+Banks serve small businesses, but where are all the small businesses in Web3? If we want Web3 to scale to the rest of society, then we need to support more mom-and-pop DAOs. We need to help normal people launch small businesses like restaurants, shops, event management companies, and consultancies.
 
 **We need a bank for DAOs.**
 
@@ -15,7 +15,9 @@ Want to learn more or help? [Email me](mailto:joshua.z.tan@gmail.com). Or join [
 Warmly,
 Josh
 
-Joshua Tan
+[Joshua Tan](https://joshuatan.com/research)
 Co-founder, Metagov
 Lead, DAOstar
 Computer scientist @ Oxford
+
+Contributors and advisors: Nathan Schneider (CU Boulder), Michael Zargham (BlockScience), more TBA
