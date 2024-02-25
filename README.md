@@ -2,7 +2,7 @@ Dear community,
 
 There's something missing in Web3. We've built all these complex financial widgets in DeFi. But for the vast majority of people, the most visible and trusted financial institution in the world is not a broker or an exchange or a hedge fund. It's a local bank.
 
-If we want Web3 to scale to the rest of society, then we need to support more mom-and-pop DAOs. We need to help normal people launch small businesses like restaurants, shops, event management companies, and consultancies.
+DAOs are the native companies of Web3, but there's a marked lack of "small business DAOs". If we want Web3 to scale to the rest of society, then we need to support more mom-and-pop DAOs. We need to help normal people launch small businesses like restaurants, shops, hotels, events, and consultancies.
 
 **We need a bank for DAOs.**
 
