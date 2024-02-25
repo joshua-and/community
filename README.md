@@ -19,4 +19,5 @@ Josh
 ## Contributors and advisors
 - Nathan Schneider (CU Boulder)
 - Michael Zargham (BlockScience)
+- Yalor Mewn (Metacartel / Metacamp)
 - more TBA
