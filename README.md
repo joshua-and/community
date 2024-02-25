@@ -10,7 +10,7 @@ If we want Web3 to scale to the rest of society, then we need to support more mo
 
 I'm starting that bank. It'll give out dead simple, fixed rate loans backed by whatever form of collateral that normal people actually have access to. It's a community bank for DAOs. And I'm going to build it this week, during ETH Denver 2024.
 
-Want to learn more or help? [DM me](https://x.com/joshuaztan) or join [this TG group](https://t.me/+jqj7uPccAwVhMGUx) to stay in touch.
+Want to learn more or help? For now, I'm just sharing the working doc with a small group, with a plan to launch it at the end of ETH Denver. But I'd love to build this with everyone in the community. If you have a tip or a qustion, just [DM me](https://x.com/joshuaztan) or join [this TG group](https://t.me/+jqj7uPccAwVhMGUx) to stay in touch.
 
 Warmly,
 
