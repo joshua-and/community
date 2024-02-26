@@ -16,8 +16,11 @@ Josh
 
 [Joshua Tan](https://joshuatan.com/research), Metagov & Oxford
 
+February 25, 2024
+
 ## Contributors and advisors
 - Nathan Schneider (CU Boulder)
 - Michael Zargham (BlockScience)
 - Yalor Mewn (Metacartel / Metacamp)
+- George Beall (Gauntlet)
 - more TBA
