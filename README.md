@@ -22,4 +22,6 @@ February 25, 2024
 - Yalor Mewn (Metacartel / Metacamp)
 - George Beall (Gauntlet)
 - Eric Alston (CU Boulder)
+- Raf Solari (Tally)
+- Ketcher (Maker)
 - more TBA
