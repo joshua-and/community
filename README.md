@@ -10,12 +10,10 @@ I'm starting that bank. It'll give out dead simple, fixed rate loans either unse
 
 Want to learn more or help? For now, I'm just sharing the working doc with a small group. But I'd love to build this with everyone in the community. If you have a tip or a question, just [DM me](https://x.com/joshuaztan) or join [this TG group](https://t.me/+jqj7uPccAwVhMGUx) to stay in touch.
 
-Warmly,
-
+Warmly,\
 Josh
 
-[Joshua Tan](https://joshuatan.com/research), Metagov & Oxford
-
+[Joshua Tan](https://joshuatan.com/research), Metagov & Oxford\
 February 25, 2024
 
 ## Contributors and advisors
