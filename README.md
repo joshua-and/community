@@ -21,4 +21,5 @@ February 25, 2024
 - Michael Zargham (BlockScience)
 - Yalor Mewn (Metacartel / Metacamp)
 - George Beall (Gauntlet)
+- Eric Alston (CU Boulder)
 - more TBA
