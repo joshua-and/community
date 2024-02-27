@@ -17,11 +17,14 @@ Josh
 February 25, 2024
 
 ## Contributors and advisors
-- Nathan Schneider (CU Boulder)
-- Michael Zargham (BlockScience)
-- Yalor Mewn (Metacartel / Metacamp)
-- George Beall (Gauntlet)
-- Eric Alston (CU Boulder)
-- Raf Solari (Tally)
-- Ketcher (Maker)
+- Nathan Schneider (CU Boulder) <!-- talked with first on February 25, 2024 -->
+- Michael Zargham (BlockScience) <!-- February 25, 2024 -->
+- Yalor Mewn (Metacartel / Metacamp) <!-- February 25, 2024 -->
+- George Beall (Gauntlet) <!-- February 25, 2024 -->
+- Mario Romero Zavala (Revert Finance) <!-- February 25, 2024 -->
+- Eric Alston (CU Boulder) <!-- February 26, 2024 -->
+- Raf Solari (Tally) <!-- February 26, 2024 -->
+- Ketcher (Maker) <!-- February 26, 2024 -->
+- Vaugh (Butter) <!-- February 26, 2024 -->
+- Ori Shimony (Mechanism Institute) <!-- February 26, 2024 -->
 - more TBA
