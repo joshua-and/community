@@ -25,6 +25,13 @@ February 25, 2024
 - Eric Alston (CU Boulder) <!-- February 26, 2024 -->
 - Raf Solari (Tally) <!-- February 26, 2024 -->
 - Ketcher (Maker) <!-- February 26, 2024 -->
-- Vaugh (Butter) <!-- February 26, 2024 -->
+- Vaughn McKenzie-Landell (Butter) <!-- February 26, 2024 -->
 - Ori Shimony (Mechanism Institute) <!-- February 26, 2024 -->
+- Mahesh Murthy (Karma) <!-- February 27, 2024 -->
+- James Kiernan (Octant) <!-- February 27, 2024 -->
+- Hirad Sab (One Project) <!-- February 27, 2024 -->
+- 0xJoshua (Opolis) <!-- February 28, 2024 -->
+- Launamu (WAGMI LATAM) <!-- February 28, 2024 -->
+- Raymond Chang (Open Source Observer) <!-- February 28, 2024 -->
+- Kyle Weiss (Gitcoin) <!-- February 28, 2024 -->
 - more TBA
