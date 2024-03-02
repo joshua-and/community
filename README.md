@@ -8,7 +8,7 @@ If we want Web3 to scale to the rest of society, then we need to support more sm
 
 **We need a bank for DAOs.**
 
-I'm starting that bank. It'll give out dead simple, fixed rate loans either unsecured or backed by whatever form of collateral that normal people actually have access to. And I'm going to build it this week, during ETH Denver 2024.
+I'm starting that bank. It'll give out dead simple, fixed-rate loans that are undercollateralized (or unsecured) and backed by whatever form of collateral that normal people actually have access to. And I'm going to build it this week, during ETH Denver 2024.
 
 Want to learn more or help? For now, I'm just sharing the working doc with a small group. But I'd love to build this bank with the community, for the community. So if you have a tip or a question (or want to sign up for a loan), just sign up for [the newsletter](https://thelastjosh.substack.com/) or join [this TG group](https://t.me/+jqj7uPccAwVhMGUx) to stay in touch.
 
