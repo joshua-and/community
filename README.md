@@ -2,15 +2,15 @@ Dear community,
 
 There's something missing in Web3. We've built all these complex financial widgets in DeFi. But for the vast majority of people, the most visible and trusted financial institution in the world is not a broker or an exchange or a hedge fund. It's a local bank.
 
-DAOs are the native companies of Web3, but there’s a marked lack of “small business DAOs”. That's partly because Web3 doesn't have any financial infrastructure for them: small and medium businesses—which comprise half the real economy and 99.9% of all companies—aren't going to take venture capital. They're not going to start a native token. They can't afford overcollateralized loans. And grants don't solve their liquidity problems. 
+DAOs are the native companies of Web3, but there’s a marked lack of “small business DAOs”. That's partly because Web3 doesn't have any financial infrastructure for them: small and medium businesses—which comprise half the real economy and 99.9% of all companies—aren't going to take venture capital. They're not going to start a native token. They can't afford overcollateralized loans. And grants don't solve their liquidity problems.
 
 If we want Web3 to scale to the rest of society, then we need to support more small businesses like restaurants, dev shops, barbers, and event managers. We need more mom-and-pop DAOs.
 
 **We need a bank for DAOs.**
 
-I'm starting that bank. It'll give out dead simple, fixed-rate loans that are undercollateralized (or unsecured) and backed by whatever form of collateral that normal people actually have access to. And I'm going to build it this week, during ETH Denver 2024.
+I'm starting that bank. It'll give out dead simple, under- and uncollateralized loans to DAOs and small businesses willing to organize as DAOs, backed by whatever form of collateral that normal people actually have access to. And I'm going to build it this week, during ETH Denver 2024. <!-- Almost all loans in crypto are overcollateralized due to lack of reputation or recourse, but overcollateralized loans are designed for trading and don't fit the needs of a typical SMB. We get around the reputation and recourse questions by (1) focusing narrowly on DAOs, (2) building in community with key DAOs and stakeholders, and (3) leveraging emerging DAO patterns around governance, reputation, and attestations. -->
 
-Want to learn more or help? For now, I'm just sharing the working doc with a small group. But I'd love to build this bank with the community, for the community. So if you have a tip or a question (or want to sign up for a loan), just sign up for [the newsletter](https://thelastjosh.substack.com/) or join [this TG group](https://t.me/+jqj7uPccAwVhMGUx) to stay in touch.
+Want to learn more or help? For now, I'm just sharing the working doc with a small group. But I plan to build this bank with the community, for the community. So if you have a tip or a question (or want to sign up for a loan), just sign up for [the newsletter](https://thelastjosh.substack.com/) or join [this TG group](https://t.me/+jqj7uPccAwVhMGUx) to stay in touch.
 
 Warmly,\
 Josh
@@ -18,7 +18,7 @@ Josh
 [Joshua Tan](https://joshuatan.com/research), Metagov & Oxford\
 February 25, 2024
 
-## Contributors and advisors
+## Community, contributors, and advisors
 - Nathan Schneider (CU Boulder) <!-- talked with first on February 25, 2024 -->
 - Michael Zargham (BlockScience) <!-- February 25, 2024 -->
 - Yalor Mewn (Metacartel, Metacamp) <!-- February 25, 2024 -->
