@@ -19,7 +19,7 @@ February 25, 2024
 ## Contributors and advisors
 - Nathan Schneider (CU Boulder) <!-- talked with first on February 25, 2024 -->
 - Michael Zargham (BlockScience) <!-- February 25, 2024 -->
-- Yalor Mewn (Metacartel / Metacamp) <!-- February 25, 2024 -->
+- Yalor Mewn (Metacartel, Metacamp) <!-- February 25, 2024 -->
 - George Beall (Gauntlet) <!-- February 25, 2024 -->
 - Mario Romero Zavala (Revert Finance) <!-- February 25, 2024 -->
 - Eric Alston (CU Boulder) <!-- February 26, 2024 -->
@@ -32,6 +32,19 @@ February 25, 2024
 - Hirad Sab (One Project) <!-- February 27, 2024 -->
 - 0xJoshua (Opolis) <!-- February 28, 2024 -->
 - Launamu (WAGMI LATAM) <!-- February 28, 2024 -->
-- Raymond Chang (Open Source Observer) <!-- February 28, 2024 -->
+- Raymond Cheng (Open Source Observer) <!-- February 28, 2024 -->
 - Kyle Weiss (Gitcoin) <!-- February 28, 2024 -->
+- Philipp Zahn (20squares) <!-- February 29, 2024 -->
+- Philipp Koellinger (DeSci Foundation) <!-- February 29, 2024 --> 
+- Devin Walsh (Uniswap Foundation) <!-- February 29, 2024 -->
+- Balazs Nemethi (DAOstar) <!-- March 1, 2024 -->
+- Geoist (IDriss) <!-- March 1, 2024 -->
+- Will Papper (Syndicate) <!-- March 1, 2024 -->
+- Alex Poon (Charmverse) <!-- March 1, 2024 -->
+- Spencer Graham (Hats) <!-- March 1, 2024 -->
+- Richard Moore (Ethers.js) <!-- March 1, 2024 -->
+- Yuet Wong (Clr.fund) <!-- March 1, 2024 -->
+- Auryn MacMillan (Clr.fund, Gnosis) <!-- March 1, 2024 -->
+- Kevin Owocki (Gitcoin) <!-- March 1, 2024 -->
+- Matt Wright (Consensys) <!-- March 1, 2024 -->
 - more TBA
