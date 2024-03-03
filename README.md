@@ -10,7 +10,7 @@ If we want Web3 to scale to the rest of society, then we need to support more sm
 
 I'm starting that bank. It'll give out dead simple, under- and uncollateralized loans to DAOs and small businesses willing to organize as DAOs, backed by whatever form of collateral that normal people actually have access to. And I'm going to build it this week, during ETH Denver 2024. <!-- Almost all loans in crypto are overcollateralized due to lack of reputation or recourse, but overcollateralized loans are designed for trading and don't fit the needs of a typical SMB. We get around the reputation and recourse questions by (1) focusing narrowly on DAOs, (2) building in community with key DAOs and stakeholders, and (3) leveraging emerging DAO patterns around governance, reputation, and attestations. -->
 
-Want to learn more or help? For now, I'm just sharing the working doc with a small group. But I plan to build this bank with the community, for the community. So if you have a tip or a question (or want to sign up for a loan), just sign up for [the newsletter](https://thelastjosh.substack.com/) or join [this TG group](https://t.me/+jqj7uPccAwVhMGUx) to stay in touch.
+Want to learn more or help? For now, I'm just sharing the working doc with a small group. But I plan to build this bank with the community, for the community. So if you have a tip or a question (or want to sign up for a loan), just sign up for [the newsletter](https://joshua.community/) or [DM me](https://twitter.com/joshuaztan).
 
 Warmly,\
 Josh
