@@ -52,4 +52,5 @@ February 25, 2024
 - Riccardo Lamanna (OpenQ) <!-- March 2, 2024 -->
 - Griff Green (Giveth) <!-- March 3, 2024 -->
 - Kiba Gateaux (DebtDAO) <!-- March 5, 2024 -->
+- Neel Baronia (Betaworks) <!-- March 13, 2024 -->
 - more TBA
