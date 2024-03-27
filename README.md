@@ -53,4 +53,5 @@ February 25, 2024
 - Griff Green (Giveth) <!-- March 3, 2024 -->
 - Kiba Gateaux (DebtDAO) <!-- March 5, 2024 -->
 - Neel Baronia (Betaworks) <!-- March 13, 2024 -->
+- Camille Canon (Apiary) <!-- March 27, 2024 -->
 - more TBA
