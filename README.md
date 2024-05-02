@@ -54,4 +54,10 @@ February 25, 2024
 - Kiba Gateaux (DebtDAO) <!-- March 5, 2024 -->
 - Neel Baronia (Betaworks) <!-- March 13, 2024 -->
 - Camille Canon (Apiary) <!-- March 27, 2024 -->
+- Olga V. Mack <!-- April 10, 2024 -->
+- Evan Steiner (One Project) <!-- April 13, 2024 -->
+- Sophie Dew (Gitcoin) <!-- April 14, 2024 -->
+- Toby Shrier (Growthepie.xyz) <!-- April 14, 2024 -->
+- Holke Brammer (Hypercerts Foundation) <!-- April 15, 2024 -->
+- Peter Van Valkenburgh <!-- April 17, 2024 -->
 - more TBA
