@@ -60,4 +60,5 @@ February 25, 2024
 - Toby Shrier (Growthepie.xyz) <!-- April 14, 2024 -->
 - Holke Brammer (Hypercerts Foundation) <!-- April 15, 2024 -->
 - Peter Van Valkenburgh (Coin Center) <!-- April 17, 2024 -->
+- Rena O'Brien (Gitcoin) <!-- May 15, 2024 -->
 - more TBA
