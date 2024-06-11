@@ -62,4 +62,5 @@ February 25, 2024
 - Peter Van Valkenburgh (Coin Center) <!-- April 17, 2024 -->
 - Rena O'Brien (Gitcoin) <!-- May 15, 2024 -->
 - Dennison Bertram (Tally) <!-- June 10, 2024 -->
+- Fabien ! (Snapshot) <!-- June 11, 2024 -->
 - more TBA
