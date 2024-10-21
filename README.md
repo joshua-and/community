@@ -55,12 +55,16 @@ February 25, 2024
 - Neel Baronia (Betaworks) <!-- March 13, 2024 -->
 - Camille Canon (Apiary) <!-- March 27, 2024 -->
 - Olga V. Mack <!-- April 10, 2024 -->
-- Evan Steiner (One Project) <!-- April 13, 2024 --> <!-- - Sophia Dew (Gitcoin) removed June 3, 2024 --> <!-- April 14, 2024 -->
+- Evan Steiner (One Project) <!-- April 13, 2024 --> <!-- - Sophia Dew (Gitcoin) April 14, 2024, removed June 3, 2024 -->
 - Toby Shrier (Growthepie.xyz) <!-- April 14, 2024 -->
 - Holke Brammer (Hypercerts Foundation) <!-- April 15, 2024 -->
 - Peter Van Valkenburgh (Coin Center) <!-- April 17, 2024 -->
 - Rena O'Brien (Gitcoin) <!-- May 15, 2024 -->
+- Helena Rong (NYU-Shanghai) <!-- June 6, 2024 -->
 - Dennison Bertram (Tally) <!-- June 10, 2024 -->
+- John Garry (Garry Elevator) <!-- June 13, 2024 -->
 - Fabien ! (Snapshot) <!-- June 11, 2024 -->
 - Reuben Youngblum (Stanford) <!-- October 17, 2024 -->
+- Sara Horowitz (Mutualist Society) <!-- October 21, 2024 -->
+- James Waugh (
 - more TBA
