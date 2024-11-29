@@ -68,4 +68,5 @@ February 25, 2024
 - Reuben Youngblum (Stanford) <!-- October 17, 2024 -->
 - Sara Horowitz (Mutualist Society) <!-- October 21, 2024 -->
 - Joni Pirovich <!-- November 26, 2024 -->
+- Isaac Patka <!-- November 28, 2024 -->
 - more TBA
